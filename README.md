@@ -19,7 +19,11 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
   ![THS overall rank original](https://user-images.githubusercontent.com/108240844/181364239-058ca8cf-176e-4e9c-8438-3b0d84da13d3.png)
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
+  -
 Scores by school spending
+  Thomas High School was still in the $631-$646 spending range bin even after removing the ninth graders.
 Scores by school size
-Scores by school type
+  -Thomas High School was stil in the middle for school size and didn't change.
+ Scores by school type
+  -The Charter school type was unaffected by this change (if we went into a decimal place we might have seen this change.
 ##3.Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
